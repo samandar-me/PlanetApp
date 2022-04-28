@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233209796416",
+    "project_id": "planetaapp-9f1c8",
+    "storage_bucket": "planetaapp-9f1c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233209796416:android:0c141ef909182b8f418ca5",
+        "android_client_info": {
+          "package_name": "com.samsdk.planetaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233209796416-htrg6f8m7jm9qqbv2uu7vho9hp0hq45s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7Wubzg0jHz6QjcCaAjmRl-oOm9bZtCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233209796416-htrg6f8m7jm9qqbv2uu7vho9hp0hq45s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
